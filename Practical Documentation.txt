@@ -1,0 +1,7 @@
+get the console application name-sorter.exe in \name-sorter\bin\Debug
+save unsorted-names-list.txt in where name-sorter.exe is
+open Command Prompt
+cd your directory of console application: name-sorter.exe
+run application with typing "name-sorter.exe ./unsorted-names-list.txt"
+Voila console will display unsorted name list and the result of sorting
+and sorted-names-list.txt will created
